@@ -1,0 +1,8 @@
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\bin\Debug\Зеркальность числа.exe
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\bin\Debug\Зеркальность числа.pdb
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\obj\x86\Debug\Зеркальность числа.csprojResolveAssemblyReference.cache
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\obj\x86\Debug\Зеркальность числа.csproj.GenerateResource.Cache
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\obj\x86\Debug\Зеркальность числа.exe
+N:\C#\CS_Projects\Зеркальность числа1\Зеркальность числа\obj\x86\Debug\Зеркальность числа.pdb
