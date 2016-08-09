@@ -1,0 +1,14 @@
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\bin\Debug\MirrorDigit.exe
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\bin\Debug\MirrorDigit.pdb
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\MirrorDigit.csproj.GenerateResource.Cache
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\MirrorDigit.exe
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\MirrorDigit.pdb
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\MirrorDigit.exe
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\MirrorDigit.pdb
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\bin\Debug\MirrorDigit.exe
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\bin\Debug\MirrorDigit.pdb
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Debug\MirrorDigit.csproj.GenerateResource.Cache

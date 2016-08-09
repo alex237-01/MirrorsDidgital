@@ -1,0 +1,7 @@
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\bin\Release\MirrorDigit.exe
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\bin\Release\MirrorDigit.pdb
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Release\MirrorDigit.csproj.GenerateResource.Cache
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Release\MirrorDigit.exe
+N:\C#\CS_Projects\MirrorDigit\MirrorDigit\obj\x86\Release\MirrorDigit.pdb
